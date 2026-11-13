@@ -1,3 +1,9 @@
+deepin-update-ui (6.8.1) unstable; urgency=medium
+
+  * Release 6.8.1
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 16:51:08 +0800
+
 deepin-update-ui (6.8.0) unstable; urgency=medium
 
   * revert: remove temporary treeland post-upgrade check
